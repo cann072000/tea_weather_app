@@ -2,8 +2,13 @@
 
 import requests
 import os
+from dotenv import load_dotenv
 
-api_key = os.getenv("api_key")  # API anahtarını çevresel değişkenden al
+# Access variables in the .env file
+load_dotenv()
+
+# Retrieve the API key
+api_key = os.getenv("API_KEY")
 
 def get_weather(city):
     base_url = "http://api.openweathermap.org/data/2.5/weather"
