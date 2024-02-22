@@ -1,7 +1,14 @@
 # weather_app.py
 
 import requests
-from config import api_key  # API anahtarını içeri aktar
+from dotenv import load_dotenv
+import os
+
+# .env dosyasını yükleyin
+load_dotenv()
+
+# API anahtarını çekin
+api_key = os.getenv("API_KEY")
 
 def get_weather(city):
     base_url = "http://api.openweathermap.org/data/2.5/weather"
