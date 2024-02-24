@@ -12,11 +12,11 @@ To install Tea Weather App on your local machine, follow these steps:
   git clone https://github.com/cann072000/tea_weather_app.git
   ```
 
-  Navigate to the project directory:
+2. Navigate to the project directory:
 
-    ```
-    cd tea_weather_app
-    ```
+```
+  cd tea_weather_app
+ ```
 
 3. Install the required dependencies:
 
