@@ -1,0 +1,3 @@
+[console_scripts]
+weather-app = weather_app.main:main
+
