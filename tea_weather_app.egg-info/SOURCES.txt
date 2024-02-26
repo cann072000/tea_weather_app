@@ -6,3 +6,9 @@ tea_weather_app.egg-info/dependency_links.txt
 tea_weather_app.egg-info/entry_points.txt
 tea_weather_app.egg-info/requires.txt
 tea_weather_app.egg-info/top_level.txt
+tea_weather_app.egg-info/weather_app.egg-info/PKG-INFO
+tea_weather_app.egg-info/weather_app.egg-info/SOURCES.txt
+tea_weather_app.egg-info/weather_app.egg-info/dependency_links.txt
+tea_weather_app.egg-info/weather_app.egg-info/entry_points.txt
+tea_weather_app.egg-info/weather_app.egg-info/requires.txt
+tea_weather_app.egg-info/weather_app.egg-info/top_level.txt
