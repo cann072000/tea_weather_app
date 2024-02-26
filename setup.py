@@ -12,4 +12,5 @@ setup(
             'new-weather-app=weather_app.main:main',
         ],
     },
+    url='https://github.com/cann072000/tea-weather-app',  # GitHub deposunun URL'sini ekleyin
 )
