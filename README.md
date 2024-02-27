@@ -29,5 +29,5 @@ To install Tea Weather App on your local machine, follow these steps:
 Run the application with the following command:
 
 ```
-python3 main.py
+python3 tea_weather_app.py
 
