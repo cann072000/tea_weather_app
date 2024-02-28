@@ -2,10 +2,10 @@ from setuptools import setup, find_packages
 
 setup(
     name='tea-weather-app',
-    version='0.1.1',
+    version='0.1.2',
     packages=find_packages(),
     install_requires=[
-        'eaddaa-game==0.1.1',
+        'eaddaa-game==0.1.3',
     ],
     entry_points={
         'console_scripts': [
