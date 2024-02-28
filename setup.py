@@ -14,7 +14,7 @@ setup(
     },
     author='cann',
     author_email='savemefromthedark777@gmail.com',
-    url='https://github.com/cann072000/tea-weather-app',
+    bugtrack_url='https://github.com/cann072000/tea-weather-app',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     classifiers=[
