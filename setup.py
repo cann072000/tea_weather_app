@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='tea-weather-app',
-    version='0.1.2',
+    version='0.1.3',
     packages=find_packages(),
     install_requires=[
         'eaddaa-game==0.1.3',
@@ -14,7 +14,7 @@ setup(
     },
     author='cann',
     author_email='savemefromthedark777@gmail.com',
-    bugtrack_url='https://github.com/cann072000/tea-weather-app',
+    bugtrack_url='https://github.com/cann072000/tea_weather_app',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     classifiers=[
@@ -24,6 +24,6 @@ setup(
         'Programming Language :: Python :: 3.8',
     ],
     project_urls={
-        'Source': 'https://github.com/cann072000/tea-weather-app',
+        'Source': 'https://github.com/cann072000/tea_weather_app',
     },
 )
